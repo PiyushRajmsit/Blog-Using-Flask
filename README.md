@@ -6,6 +6,7 @@ A WEB BLOG BASED ON FLASK, WITH FOLLOWING FEATURES:
 5. Register
 
 STEPS TO INSTALL FOR LINUX:
+
 1.Create a Virtual Environment and activate it
 python3 -m venv venv
 . venv/bin/activate
